@@ -155,6 +155,7 @@ flowchart TD;
   Missão --> Financiamento;
     Financiamento --> Patrocínio;
     Financiamento --> store["`Lojinha da Rocket`"];
+    Financiamento --> Orçamentos;
 
 ```
 
