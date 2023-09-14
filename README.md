@@ -86,7 +86,7 @@ Implementar os prototipos de cada componente em escala reduzida.
 
 * Integração e implementação em escala :
 
-Integração dos componentes, teste em escala real e lançamento.
+Integração dos componentes, teste em escala real e lançamento, a implementação de elementos nessa etapa devem obrigatoriamente terem sido previamente testados e validados.
 
   7. System prototype demonstration in a space environment (2 meses)
   8. Actual system completed and "flight qualified" through test and demonstration (ground or space) (2 meses)
@@ -172,6 +172,7 @@ Os reponsáveis por cada elemento/nó devem manter as issues atualizadas, e moni
   * \[Prototipo\]
   * \[Implementação\]
 
+Toda implementação deve ser revisada e validada, e isso deve ser feito por um membro da equipe que não seja o responsável pelo elemento, preferencialmente pelo responsável por um elemento que dependa do elemento a ser revisado, e quando possivel por um professor ou especialista da área.
 <!-- ![Esquematico basico do motor hibrido](images/Hybrids_big-tosvg.svg) -->
 
 * Componentes que merecem mais destaque por serem completamente novos para o grupo
